@@ -1,4 +1,4 @@
-# adhoc-app
+# adhoc-app(alpha version)
 his is an application that establishes an alternative network through adhoc communication with many smartphones when there is no Internet connection.
 
 ## Getting Started
